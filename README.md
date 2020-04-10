@@ -3,6 +3,8 @@
 
 Mantra is a collection of [VCV Rack](https://vcvrack.com/) modules by Giovanni Gramegna.
 
+![mantra-master](/front.PNG)
+
 ## Contributing
 
 I welcome Issues and Pull Requests to this repository if you have suggestions for improvement.
