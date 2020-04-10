@@ -1,0 +1,52 @@
+{
+  "slug": "Mantra",
+  "name": "Mantra",
+  "version": "1.0.0",
+  "license": "BSD 3-Clause",
+  "author": "Giovanni Gramegna",
+  "authorEmail": "giovanni.gramegna88@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "DualAmp",
+      "name": "DualAmp",
+      "description": "Dual amplifier with up to X3 Gain",
+      "tags": [
+        "Dual",
+        "Attenuator",
+        "Utility"
+      ]
+    },
+    {
+      "slug": "PanelA4",
+      "name": "Panel A4",
+      "description": "Blanking Panel 4hp",
+      "tags": [
+        "Blank",
+        "Utility"
+      ]
+    },
+    {
+      "slug": "PanelB4",
+      "name": "Panel B4",
+      "description": "Blanking Panel 4hp",
+      "tags": [
+        "Blank",
+        "Utility"
+      ]
+    },
+    {
+      "slug": "PanelC4",
+      "name": "Panel C4",
+      "description": "Blanking Panel 4hp",
+      "tags": [
+        "Blank",
+        "Utility"
+      ]
+    }
+  ]
+}
