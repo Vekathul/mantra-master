@@ -2,14 +2,14 @@
   "slug": "Mantra",
   "name": "Mantra",
   "version": "1.0.0",
-  "license": "BSD 3-Clause",
+  "license": "CC0 1.0",
   "author": "Giovanni Gramegna",
   "authorEmail": "giovanni.gramegna88@gmail.com",
   "authorUrl": "",
   "pluginUrl": "",
-  "manualUrl": "",
-  "sourceUrl": "",
-  "donateUrl": "",
+  "manualUrl": "https://github.com/giogramegna/mantra-master/blob/master/README.md",
+  "sourceUrl": "https://github.com/giogramegna/mantra-master",
+  "donateUrl": "https://paypal.me/giogramegna?locale.x=it_IT",
   "modules": [
     {
       "slug": "DualAmp",
